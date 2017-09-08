@@ -1,0 +1,54 @@
+@charset "UTF-8";
+/* CSS Document */
+@font-face {font-family:"Highway Gothic"; src:url(fonts/HWYGWDE.TTF );}
+
+h4 {font-family: "Highway Gothic";}
+h4 {font-size: 18px;}
+
+.titulo {
+font-family: ;HWYGWDE;, serif;
+font-size: 17px;
+font-weight: Regular;
+padding-top: 20px;
+}
+
+#info {
+	
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-family: 'Highway Gothic'
+	font-size: 16px;
+	font-style: regular;
+	color: #FFFFFF;
+	overflow: auto;
+	width: 459px;
+	height: 300px;
+
+}
+
+#video {
+	
+	
+	width: 459px;
+	height: 300px;
+
+}
+
+#inf {
+	
+	
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-family: "Higway Gothic", "helvetica", serif;
+	font-size: 15px;
+	font-style: regular;
+	color: #FFFFFF;
+	overflow: auto;
+	width: 459px;
+	height: 300px;
+
+}
